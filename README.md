@@ -6,6 +6,7 @@
 3.	`UIImage+Extension`：增加UIImage的方法，例如拉伸图片。
 4.	`UIAlertView+Extension`：增加UIAlertView的方法，例如使用block代替selector创建UIAlertView.
 5.	`UIImage+Gif`：一个使用Gif的UIImage的分类。
+6.	`NSDate+Escort`：一个方便使用NSDate的分类，添加了许多操作日期的方法，例如：dateAtEndOfDay返回某天的最后一个时刻的NSDate对象。
 
 ----------
 继续更新中...
